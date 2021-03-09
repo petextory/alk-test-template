@@ -9,3 +9,5 @@ Template für die Einsendeaufgabe "Fahrtüchtigkeitstester" der Class "Javascrip
 ## Demo
 
 Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters-akademie.dev/">https://terminal.webmasters-akademie.dev/</a>
+
+![CleanShot 2021-03-09 at 2 47 41](https://user-images.githubusercontent.com/42392570/110480286-9d9bd100-80e6-11eb-9100-9c2294b1513d.gif)
