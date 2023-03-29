@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Fahrtüchtigkeitstester" der Class "Javascrip
 </p>
 
 ## Fahrtüchtigkeitstester
-*Fahrtüchtigkeitstester* ist eine Applikation, mit deren Hilfe Sie eine grobe Einschätzung ihres Blutalkoholgehalts erhalten können. Anwender geben zunächst ihr Gewicht an und loggen danach bei Bedarf Getränke ein. Daraus wird der geschätzte aktuelle Blutalkoholgehalt (EBAC) errechnet. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Fahrtüchtigkeitstester* ist eine Applikation, mit deren Hilfe Anwender eine grobe Einschätzung ihres Blutalkoholgehalts erhalten können. Anwender geben zunächst ihr Gewicht an und loggen danach bei Bedarf Getränke ein. Daraus wird der geschätzte aktuelle Blutalkoholgehalt (EBAC) errechnet. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
 
 ## Demo
 
